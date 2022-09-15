@@ -1,4 +1,16 @@
 .header {
   text-align: center;
   font-size: 100px;
+  color: crimson;
+  margin-top: 50px;
+}
+body {
+  background-color: lightpink;
+}
+.image {
+  margin-left: 50%;
+  transform: translate(-50%);
+}
+.subheader {
+  text-align: center;
 }
