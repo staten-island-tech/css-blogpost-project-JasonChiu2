@@ -10,7 +10,15 @@ body {
 .image {
   margin-left: 50%;
   transform: translate(-50%);
+  background-color: aqua;
+  padding: 30px;
+  border-radius: 25px;
 }
 .subheader {
   text-align: center;
+  font-size: 35px;
+}
+.link {
+  text-align: center;
+  display: block;
 }
