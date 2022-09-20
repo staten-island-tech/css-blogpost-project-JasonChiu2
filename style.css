@@ -3,6 +3,7 @@
   font-size: 100px;
   color: crimson;
   margin-top: 50px;
+  font-family: "Ms Madi", cursive;
 }
 body {
   background-color: lightpink;
@@ -18,6 +19,7 @@ body {
 .subheader {
   text-align: center;
   font-size: 35px;
+  font-family: "Lora", serif;
 }
 .link {
   text-align: center;
