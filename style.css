@@ -9,8 +9,8 @@ body {
   background-color: lightpink;
 }
 .image {
-  margin-left: 50%;
-  transform: translate(-50%);
+  display: block;
+  margin: 10px auto;
   background-color: aqua;
   padding: 30px;
   border-radius: 25px;
